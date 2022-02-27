@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/askgraphix/static/css/main.6bd5fa83.css",
+    "main.js": "/askgraphix/static/js/main.d8bb02bd.js",
+    "static/js/787.7cf42be5.chunk.js": "/askgraphix/static/js/787.7cf42be5.chunk.js",
+    "index.html": "/askgraphix/index.html",
+    "main.6bd5fa83.css.map": "/askgraphix/static/css/main.6bd5fa83.css.map",
+    "main.d8bb02bd.js.map": "/askgraphix/static/js/main.d8bb02bd.js.map",
+    "787.7cf42be5.chunk.js.map": "/askgraphix/static/js/787.7cf42be5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bd5fa83.css",
+    "static/js/main.d8bb02bd.js"
+  ]
+}
